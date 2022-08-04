@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvp1509" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvp1509?logo=twitter&style=for-the-badge" alt="dhruvp1509" /></a> </p>
 
-- 🌱 I’m currently learning **React, Node.js**
+-🔭 I’m currently exploring Web Development and UI/UX Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/DhruvPandey1509](https://github.com/DhruvPandey1509)
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 👨‍💻 All of my projects are available at <a href="https://github.com/DhruvPandey1509">Github</a> 
 
 - 💬 Ask me about **React, Frontend, Competitive Programming**
 
 - 📫 How to reach me **dhruvpandey1503@gmail.com**
+
+- 🤝 Lets Collaborate!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
