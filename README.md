@@ -24,9 +24,6 @@
 <a href="https://twitter.com/dhruvp1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvp1509" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-pandey-b05ba6212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-pandey-b05ba6212" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruv_pandeyy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_pandeyy_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruvpandey1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvpandey1502" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruvpandey1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvpandey1503" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhruvpandey1502/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhruvpandey1502/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
