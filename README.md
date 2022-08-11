@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvp1509" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvp1509?logo=twitter&style=for-the-badge" alt="dhruvp1509" /></a> </p>
 
--🔭 I’m currently exploring Web Development and UI/UX Development
+- 🔭 I’m currently exploring Web Development and UI/UX Development
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
