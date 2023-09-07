@@ -1,6 +1,6 @@
 ![MasterHead](https://devpunch.com/img/Dev-At-Work-Gif.jpg)
 <h1 align="center">Hi 👋, I'm Dhruv Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpandey1509&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpandey1509" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/DhruvPandey1509">Github</a> 
 
-- 💬 Ask me about **React, Frontend, Competitive Programming**
+- 💬 Ask me about **React, Nodejs, Postgressql, Frontend, Competitive Programming**
 
 - 📫 How to reach me **dhruvpandey1503@gmail.com**
 
