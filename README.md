@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvp1509" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvp1509?logo=twitter&style=for-the-badge" alt="dhruvp1509" /></a> </p>
 
-- 🔭 I’m currently exploring Web Development, UI/UX Development, Machine Learning and Deep Learning.
+- 🔭 I’m currently exploring Web Development, UI/UX Development.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/DhruvPandey1509">Github</a> 
 
-- 💬 Ask me about **React, Nodejs, Postgressql, Frontend, Competitive Programming**
+- 💬 Ask me about **React, Nodejs, Express, Typescript, PostgreSQL, Frontend,Backend, Database, Competitive Programming**
 
 - 📫 How to reach me **dhruvpandey1503@gmail.com**
 
