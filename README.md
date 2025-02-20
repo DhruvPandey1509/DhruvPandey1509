@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Nodejs, Express, Typescript, PostgreSQL, Frontend,Backend, Database, Competitive Programming**
 
-- 📫 How to reach me **dhruvpandey1503@gmail.com**
+- 📫 How to reach me **dhruvpandey1502@gmail.com**
 
 - 🤝 Lets Collaborate!
 
